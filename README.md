@@ -9,4 +9,5 @@ www.linkedin.com/in/luís-felipe-izídio-kutscher-54677638a
 
 Estrutura do repositório
 
-/acadêmicos -> projetos acadêmicos  /pessoais -> projetos pessoais
+/acadêmicos -> projetos acadêmicos  
+/pessoais -> projetos pessoais  
